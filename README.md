@@ -27,7 +27,7 @@ in the file as placeholders for the data.
 * [RECEIPT#]
 
 # Spreadsheet Format
-The spreadsheet file must be of `.xlsx, .xls, .xlsm, .xlsb, .odf, .ods, or .odt` and 
+The spreadsheet file must be of `.xlsx`, `.xls`, `.xlsm`, `.xlsb`, `.odf`, `.ods`, or `.odt` and 
 must have the following column names.
 
 **Column Names:**
